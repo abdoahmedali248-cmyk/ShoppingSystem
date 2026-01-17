@@ -6,6 +6,7 @@ A simple C# console application made to practice **Collections**.
 - List → to store cart items
 - Dictionary → to store products and prices
 - Stack → to implement Undo feature
+- Tuple → to return product name and price together
 
 ## Features
 - Add product to cart
